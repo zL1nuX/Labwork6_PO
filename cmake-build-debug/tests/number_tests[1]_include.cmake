@@ -1,0 +1,5 @@
+if(EXISTS "D:/Documents/Labs/SredstvaPO/Labwork6/labwork6_po/cmake-build-debug/tests/number_tests[1]_tests.cmake")
+  include("D:/Documents/Labs/SredstvaPO/Labwork6/labwork6_po/cmake-build-debug/tests/number_tests[1]_tests.cmake")
+else()
+  add_test(number_tests_NOT_BUILT number_tests_NOT_BUILT)
+endif()

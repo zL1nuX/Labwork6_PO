@@ -1,0 +1,21 @@
+# ninja log v5
+1	58	6915907562464205	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	52ead404c386a694
+1	58	6915907562464205	D:/Documents/Labs/SredstvaPO/Labwork6/labwork6_po/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	52ead404c386a694
+59	14200	6915907703883491	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	f60a0a32fef811b0
+59	14200	6915907703883491	D:/Documents/Labs/SredstvaPO/Labwork6/labwork6_po/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	f60a0a32fef811b0
+14201	14372	0	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	a84df51374804958
+14201	14372	0	D:/Documents/Labs/SredstvaPO/Labwork6/labwork6_po/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	a84df51374804958
+14373	14462	6915907706475225	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	a04815356bcf7296
+14373	14462	6915907706475225	D:/Documents/Labs/SredstvaPO/Labwork6/labwork6_po/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	a04815356bcf7296
+14462	14543	6915907707278586	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	3dbf4e85963f1ed8
+14462	14543	6915907707278586	D:/Documents/Labs/SredstvaPO/Labwork6/labwork6_po/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	3dbf4e85963f1ed8
+14543	14625	6915907708099126	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	d18e36c4494c669f
+14543	14625	6915907708099126	D:/Documents/Labs/SredstvaPO/Labwork6/labwork6_po/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	d18e36c4494c669f
+14625	14705	6915907708907683	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	2228a87b8ecc770f
+14625	14705	6915907708907683	D:/Documents/Labs/SredstvaPO/Labwork6/labwork6_po/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	2228a87b8ecc770f
+14706	14786	6915907709685037	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	d2faa40dbcdab5c
+14706	14786	6915907709685037	D:/Documents/Labs/SredstvaPO/Labwork6/labwork6_po/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	d2faa40dbcdab5c
+14786	14901	6915907710856824	CMakeFiles/googletest-populate-complete	58534da710ba9609
+14786	14901	6915907710856824	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	58534da710ba9609
+14786	14901	6915907710856824	D:/Documents/Labs/SredstvaPO/Labwork6/labwork6_po/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	58534da710ba9609
+14786	14901	6915907710856824	D:/Documents/Labs/SredstvaPO/Labwork6/labwork6_po/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	58534da710ba9609

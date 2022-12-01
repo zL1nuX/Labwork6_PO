@@ -1,0 +1,3 @@
+D:/Documents/Labs/SredstvaPO/Labwork6/labwork6_po/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+D:/Documents/Labs/SredstvaPO/Labwork6/labwork6_po/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+D:/Documents/Labs/SredstvaPO/Labwork6/labwork6_po/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
